@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "status": 301,
+      "headers": {
+        "Location": "http://bore.pub:14714/$1"
+      }
+    }
+  ]
+}
