@@ -4,7 +4,7 @@
       "src": "/(.*)",
       "status": 301,
       "headers": {
-        "Location": "https://minecraft-eu.serveo.net\r/$1"
+        "Location": "https://minecraft-eu.serveo.net\r"
       }
     }
   ]
